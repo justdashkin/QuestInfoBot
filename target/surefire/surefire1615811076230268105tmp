@@ -1,0 +1,7 @@
+#surefire
+#Tue Aug 23 16:35:56 EEST 2016
+user.dir=C\:\\Users\\Daria_Ivanova2\\Desktop\\QuestInfoBot
+webdriver.chrome.driver=/home/gede/bin/chromedriver
+idea.version=2016.1.4
+localRepository=C\:\\Users\\Daria_Ivanova2\\.m2\\repository
+basedir=C\:\\Users\\Daria_Ivanova2\\Desktop\\QuestInfoBot
